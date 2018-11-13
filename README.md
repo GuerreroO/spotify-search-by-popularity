@@ -1,12 +1,21 @@
 # spotify-search-by-popularity
 
 ## API Used
+https://developer.spotify.com/
+
+##App Description
 The intentions of this app is simply to allow the user to search any
 artist, album, or song and find recommended music based on genre and popularity.
 since there can be multiple genre it will include a genre filter as well as a
 popularity filter allowing one to search from highest popularity or the lowest.
 The App is intended to also have a player allowing one to preview the tracks that
 they choose.
+
+##MVP
+ 1. Be able to Search for artist, albums and songs and render them on the UI
+ 2. Be able to produce recommendations based on certain criterias based on search
+    choice
+  
 
 ## Problem Foreseen
 
